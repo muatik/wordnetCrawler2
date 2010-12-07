@@ -88,7 +88,8 @@ class wordnetCrawler{
 	}
 	
 	public function fetchDefinitionsFromTdk(){
-		$keyword='kel başa şimşir tarak';
+		
+		$keyword=$_SERVER['argv'][1];
 		$urlkw=str_replace(' ','%20',$keyword);
 		$url='http://tdk.gov.tr/TR/Genel/SozBul.aspx?F6E10F8892433CFFAAF6AA849816B2EF4376734BED947CDE&Kelime='.$urlkw;
 		
@@ -101,7 +102,7 @@ class wordnetCrawler{
 		}
 		
 		// sonuçlar ayrıca işlenecek
-		$exp='/<\/STRONG> ('.$keyword.')  '
+		$exp='/<\/STRONG> ('.$keyword.') (\(.*?\))? '
 		.'(<STRONG><FONT color=DarkBlue>(.*?)<\/FONT><\/STRONG>)?'
 		.'<\/FONT><\/STRONG><BR><I>'
 		.'<STRONG><FONT color=mediumblue>(.*?)<\/FONT><\/STRONG>'
