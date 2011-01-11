@@ -1,0 +1,2991 @@
+abide :anıt
+acele :çabuk
+acemi :toy
+aciz :güçsüz
+adalet :hak
+adet :sayı
+aka :büyük
+akıl :us
+al :kırmızı
+alelade :sıradan
+aleni :açık
+ara :fasıla
+araba : otomobil
+armağan :hediye
+aşk :sevi
+atik :seri
+ayakkabı :pabuç
+bağışlama :affetme
+bacı :kız kardeş
+baş :kafa
+bayağı :adi
+beyaz :ak
+bonkör :cömert
+cennet :aden
+cevap :yanıt
+cılız :zayıf
+cimri :pinti
+cümle :tümce
+çabuk :acele
+çağrı :davet
+çamur :balçık
+çare :umar
+denk :müsavi
+deprem :zelzele
+dilek :istek :arzu
+dizi :sıra
+doktor :hekim
+dost :arkadaş
+edebiyat :yazın
+edep :adap
+ehemniyet :önem
+elbise :esbap
+emniyet :güven
+eser :yapıt
+eş anlamlı sözcükler :anlamdaş sözcükler
+ev :konut
+fakir :yoksul
+fayda :yarar
+fena :kötü
+fikir :düşünce ya da ide
+gemi :vapur
+gezmek :dolaşmak
+gökyüzü :sema
+gözlem :rasat
+güç :kuvvet
+hadise : olay
+hareket :kinetik
+hasım :düşman
+hasret :özlem
+hatıra :anı
+hediye :armağan
+hekim :doktor
+hısım :dost
+ırak :uzak
+ırmak :nehir
+idadi :lise
+idare :yönetim
+ihtiyar :yaşlı
+ihtiyaç :gereksinim
+ilan :duyuru
+ilişki :münasebet
+imtihan :sınav
+isim :ad
+istasyon :gar veya Terminal
+istikbal :gelecek
+işçi :amele
+ivedi :çabuk
+izahat :açıklama
+kabiliyet :yetenek
+kafa :baş
+kahin : medyum veya öz Türkçesi bilici
+kalp :yürek
+kanıt :delil
+kelime :sözcük
+kılavuz :rehber
+kırmızı :al
+kıyı :kenar veya sahil
+kirli :pis
+kolay :basit
+konuk :misafir
+kural :kaide
+kuvvetli :güçlü
+küçük :ufak veya minik
+lider :önder
+mal :meta
+mani :engel
+matem :yas
+mektep : okul
+mektup :name
+merkep :eşek
+misafir :konuk
+misal :örnek
+muharebe :savaş
+mübarek :kutsal
+namzet :aday
+nehir :ırmak
+nesil :kuşak
+nezir :adak
+okul :mektep
+ortalama :vasat
+oy :rey
+öğrenci :talebe
+öğretmen :muallim
+önder :lider
+örnek :misal
+öykü :hikaye
+problem :sorun
+rey : oy
+rüştiye : ortaokul
+rüzgar :yel
+saadet :mutluluk
+sabit :durağan (durgun)
+sağlık : sıhhat
+savaş :cenk veya muharebe
+sebep :neden
+sene :yüzyıl ya da asır
+serüven :macera
+sevinç :mutluluk
+sınav :imtahan
+sınıf :derslik
+sitane :yıldız
+siyah :kara
+son :nihayet
+sonbahar :güz
+soru :sual
+sorumluluk :mesuliyet
+sözcük :kelime
+sözlük :lügat
+şaka :latife
+şakacı :nüktedan
+tabiat :doğa
+tartışma :münakaşa
+temel :esas
+tören :merasim
+tren :şimendifer
+tutsak :esir
+tümce :cümle
+uçak :tayyare
+ulu :yüce
+ulus :millet
+usta :ehil
+uyarı :ikaz
+uygarlık :medeniyet
+üzüntü :tasa
+vakit :zaman
+vatan :yurt
+vazife :görev
+veteriner :baytar
+vilayet :il
+Yaşlı :ihtiyar
+yel :rüzgar
+yemek :aş
+yetenek :beceri ye da kabiliyet
+yıl :sene
+yılmak :bıkmak
+yoksul :fakir
+yurt :vatan
+yürek :kalp
+yüz :sima :çehre :surat
+zehir :agu
+zengin :varlıklı
+zırnık :metelik
+
+
+ide-anıt
+
+Acayip-garip
+
+Acıma-merhamet
+
+Açıkgöz-kurnaz
+
+Ad-isim
+
+Adale-kas
+
+Adet-tane
+
+Adıl-zamir
+
+Adi-bayağı
+
+Aferin-bravo
+
+Affetmek-bağışlamak
+
+Ahenk-uyum
+
+Akıl-us
+
+Aksi-ters
+
+Al –kırmızı
+
+Alaka –ilgi
+
+Alaz-alev
+
+Alelade-sıradan
+
+Allah-Tanrı
+
+Ama-fakat
+
+Ama-kör
+
+Amaç-erek
+
+Amade-hazır
+
+Amale-işçi
+
+Amel-iş
+
+Ana-anne
+
+Anı-hatıra
+
+Anıt-abide
+
+Aniden-birden
+
+Aniden-ansızın
+
+Anlam-mana
+
+Anlatım-ifade
+
+Ant-yemin
+
+Apse-iltihap
+
+Araç-vasıta
+
+Arıza-bozukluk
+
+Arka-geri
+
+Armağan-hediye
+
+Art-arka
+
+Arzu-istek
+
+Asır-yüzyıl
+
+Asil-soylu
+
+Aş-yemek
+
+Aşırmak-çalmak
+
+Ata-cet
+
+Atak-girişken
+
+Atamak-tayin etmek
+
+Atölye-işlik
+
+Avare-serseri(aylak)
+
+Ayakyolu-hela(WC)
+
+Aylak-serseri
+
+Ayraç-parantez
+
+Ayrıcalık-imtiyaz
+
+Aza-üye
+
+Acemi-toy
+
+Adalet-hak
+
+Aka-büyük
+
+Aleni-açık
+
+Ara-fasıla
+
+Ayakkabı-pabuç
+
+
+
+Bağışlamak –affetmek
+
+Bağnaz-yobaz
+
+Bakış-nazar
+
+Barış-sulh
+
+Basımevi-matbaa
+
+Basit-yalın
+
+Başkaldırı-isyan
+
+Başkan-reis
+
+Başkent-başşehir
+
+Başvuru-müracaat
+
+Batı-garp
+
+Bayağı-adi
+
+Bayındır-mamur
+
+Bayındırlık-imar
+
+Baytar-veteriner
+
+Bazen-kimi
+
+Bedava-parasız
+
+Beden-gövde
+
+Beğeni-zevk
+
+Belde-şehir
+
+Belge-vesika
+
+Bellek-hafıza
+
+Bencil-egoist
+
+Benlik-kişilik
+
+Beraber-birlikte
+
+Bereket-bolluk
+
+Berrak-duru
+
+Besin-gıda
+
+Beyanat-demeç
+
+Beyaz-ak
+
+Beygir-at
+
+Beyhude-boşuna
+
+Biçare-zavallı
+
+Biçim-şekil
+
+Bilakis-tersine
+
+Bilgin-alim
+
+Bilgisiz-cahil
+
+Bilhassa-özellikle
+
+Bilim-ilim
+
+Bilgisiz-cahil
+
+Bilinç-şuur
+
+Bina-yapı
+
+Birden-ani
+
+Birdenbire-aniden
+
+Birey-fert
+
+Biricik-tek
+
+Bitki-nebat
+
+Boylam-meridyen
+
+Bozkır-step
+
+Bucak-nahiye
+
+
+Buğu-buhar
+
+Buhran-bunalım
+
+Buyruk-emir
+
+Büro-ofis (yazıhane)
+
+Bacı-kız kardeş
+
+Baş-kafa
+
+Cahil-bilgisiz
+
+Caka-gösteriş
+
+Camekan-vitrin
+
+
+Canlı-diri
+
+Cazibe-çekim
+
+Cehalet-bilgisizlik
+
+Celse-oturum
+
+Cenk-savaş
+
+Cenup-güney
+
+Cerahat-irin
+
+Cerrah-operatör
+
+Cesur-yürekli
+
+Cet-ata
+
+Cevap-yanıt
+
+Ceviz-koz
+
+Cılız-sıska
+
+Ciddi-ağırbaşlı
+
+Cihaz-aygıt
+
+Cihet-yön
+
+Cilt-ten
+
+Cimri-pinti
+
+Cimri-hasis
+
+Cin-tür
+
+Civar-yöre
+
+Cömert-eli açık
+
+Cümle-tümce
+
+Cılız-sıska
+
+Ciddi-ağırbaşlı
+
+Cihaz-aygıt
+
+Cihet-yön
+
+Cilt-ten
+
+Cimri-pinti
+
+Cimri-hasis
+
+Cins-tür
+
+Civar-yöre
+
+Cömert-eli açık
+
+Cümle-tümce
+
+Çabuk-acele
+
+Çağ-devir
+
+Çağdaş-modern-uygar
+
+Çağrı-davet
+
+Çayır-davet
+
+Çehre-yüz
+
+Çeşit-tür
+
+Çeviri-tercüme
+
+Çığlık-feryat
+
+Çılgın-deli
+
+Çizelge-cetvel
+
+Çoğunluk-ekseriyet
+
+Çok-fazla
+
+Çamur-balçık
+
+Çare-deva
+
+D
+
+Dahil-iç
+
+Daimi-sürekli
+
+Darbe-vuruş
+
+Dargın-küs
+
+Darılmak-küsmek
+
+Davet-çağrı
+
+Defa-kez
+
+Değer-kıymet
+
+Değerli-kıymetli
+
+Değnek-sopa
+
+Deli-çılgın
+
+Delil-kanıt
+
+Deneme-tecrübe
+
+Denetim-kontrol
+
+Deney-tecrübe
+
+Deprem-zerzele
+
+Dergi-mecmua
+
+Derhal-hemen
+
+Deri-ten
+
+Derslik-sınıf
+
+Devamlı-sürekli
+
+Devinim-hareket
+
+Devir-çağ
+
+Devir-tur
+
+Devre-dönem
+
+Dışalım-ithalat
+
+Dışsatım-ihracat
+
+Diğer-başka
+
+Dil-lisan
+
+Dilbilgisi-gramer
+
+Diri-canlı
+
+Dize-mısra
+
+Doğa-tabiat
+
+Doğal-tabii
+
+Doğu-şark
+
+Doktor-hekim
+
+Donuk-mat
+
+Doruk-zirve
+
+Dönemeç:viraj
+
+Döşek:yatak
+
+Duru:berrak
+
+Durum:vaziyet
+
+Duygu:his
+
+Düş:rüya
+
+Düşünce:fikir
+
+Düzen:seviye
+
+Düzmece:sahte
+
+Düzyazı:nesir
+
+Dilek:istek
+
+Dizi:sıra
+
+Dost:arkadaş
+
+E
+
+Ebat: boyut
+
+Ebedi: sonsuz
+
+Ebeveyn. Ana-baba
+
+Edat: ilgeç
+
+Efe: zeybek
+
+Egoist:bencil
+
+Ehemmiyet:önem
+
+Ek. İlave
+
+Eklem: mafsal
+
+Ekonomi : iktisat
+
+Elbise: giysi
+
+Emir: buyruk
+
+Emniyet: güvenlik
+
+Ender: nadir
+
+Endişe :kaygı
+
+Endüstri:sanayi
+
+Enkaz: yıkıntı
+
+Enlem: paralel
+
+Entari: giysi
+
+Enteresan: ilginç
+
+Erek: amaç
+
+Esas: temel
+
+Eser: yapıt
+
+Esir: tutsak
+
+Etki: tesir
+
+Etraf: çevre
+
+Evvel: önce
+
+Eylem: fiil
+
+Eylemsi: fiilimsi
+
+Ev: konut
+
+Edebiyat: yazın
+
+Eda: verme
+
+F
+
+Faaliyet: etkinlik
+
+Fakat: ama-lakin
+
+Fakir: yoksul-fukara
+
+Faktör-unsur
+
+Fare-sıçan
+
+Fark-ayrım
+
+Fasıla-ara
+
+
+Fayda-yarar
+
+Fazla-çok
+
+Fena-kötü
+
+Fert-birey
+
+Feza-uzay
+
+Fiil- eylem
+
+Fikir-düşünce
+
+File-ağ
+
+Füze-roket
+
+Felç-nüzul
+
+Fer-ışık
+
+Faiz-nema
+
+G
+
+Garip-acayip
+
+Garp-batı
+
+Gaye-amaç
+
+Gayret-çaba
+
+Gebe-hamile
+
+Gelecek-istikbal-ati
+
+Gelenek-anane
+
+Gene-yine
+
+Genel-umumi
+
+Geri-art
+
+Gıda-besin
+
+Giysi-elbise
+
+Giz-sır
+
+Gizli-saklı
+
+Görev-vazife
+
+Gövde-beden
+
+Gramer-dilbilgisi
+
+Güç-kuvvet-zor
+
+Güçlü-kuvvetli
+
+Güldürü-komedi
+
+Gülünç-komik
+
+Güney-cenup
+
+Güven-itimat
+
+Güz-sonbahar
+
+Gözlem-rasat
+
+Gökyüzü-sema
+
+Gezmek-dolaşmak
+
+H
+
+Hal-durum
+
+Halbuki-oysa
+
+Ham-olmamış
+
+Hane-ev
+
+Hareket-devinim
+
+Hariç-dış
+
+Harp-savaş
+
+Hasis-cimri-pinti
+
+Hasret-özlem
+
+Hassas-duygulu
+
+Hatıra-anı
+
+Hayal-düş
+
+Hayat-yaşam
+
+Haysiyet-onur
+
+Hediye-armağan
+
+Hekim-doktor
+
+Hela-tuvalet-wc
+
+Hemen-derhal
+
+Hiddet-öfke
+
+Hikaye-öykü
+
+Hisse-pay
+
+Hudut-sınır
+
+Hususi-özel
+
+Hür-özgür
+
+Hısım-akraba
+
+Hasım-düşman
+
+Hareket-devinim
+
+Hadise-olay
+
+I
+
+Ilıca-kaplıca
+
+Irak-uzak
+
+Irgat-rençber
+
+Irk-soy
+
+Ira- karakter
+
+Irmak-nehir
+
+İ
+
+İcat-buluş
+
+İç-dahil
+
+İçten-samimi
+
+İdare-yönetim
+
+İhracat-dışsatım
+
+İhtiyar-yaşlı
+
+İhtiyaç-gereksinim
+
+İkaz-uyarı
+
+İktisat-ekonomi
+
+İlave-ek
+
+İlgeç-edat
+
+İlgi-alaka
+
+İlginç-enteresan
+
+İlim-bilim
+
+İmar-bayındır
+
+İmkan-olanak
+
+İsim-ad
+
+İskemle-sandalye
+
+İthalat-dışalım
+
+İtibar-saygınlık
+
+İtimat-güven
+
+İtina-özen
+
+İzah-açıklama
+
+İdadi-lise
+
+İlan-duyuru
+
+İlişki-münasebet-temas
+
+İmtihan-sınav
+
+J
+
+Jeoloji-yer bilimi
+
+K
+
+Kabiliyet-yetenek
+
+Kabus-karabasan
+
+Kafa-baş
+
+Kafi-yeter
+
+Kafiye-uyak
+
+Kalite-nitelik
+
+Kalp-yürek
+
+Kamu-halk
+
+Kanıt-delil
+
+Kapital-anamal-sermaye
+
+Kanun-yasa
+
+Kara-siyah
+
+Karşın-rağmen
+
+Karşıt-zıt
+
+Kas-adale
+
+Katı-sert
+
+Kati-kesin
+
+Kayıp-yitik
+
+Keder-acı
+
+Kelime –sözcük
+
+Kenar-kıyı
+
+Kent-şehir
+
+Kere-defa-kez
+
+Kesin- kati
+
+Kırmızı-al
+
+Kıyı-sahil
+
+Kir-pislik
+
+Kirli-pis
+
+Kişi-şahıs
+
+Kocaman-iri
+
+Komedi-güldürü
+
+Komik-gülünç
+
+Kontrol-denetim
+
+Konuk-misafir
+
+Konut-ev
+
+Koşul-şart
+
+Kural-kaide
+
+Kuruluş-müessese-kurum
+
+Kuşku-şüphe
+
+Kutsal-mukaddes
+
+Kuvvet-güç
+
+Kuzey-şimal
+
+
+Küme-grup
+
+Küs-dargın
+
+Kılavuz-rehber
+
+Kolay-basit
+
+L
+
+Laf-söz
+
+Lahza-an
+
+Lider-önder
+
+Lisan-dil
+
+Lüzumlu-gerekli
+
+Lüzumsuz-gereksiz
+
+Lal-dilsiz
+
+Lama-deve
+
+Lafazan-geveze
+
+M
+
+Mabet-tapınak
+
+Macera-serüven
+
+Mafsal-eklem
+
+Mağlup-yenik
+
+Mahalli-yerel
+
+Mahcup-utangaç
+
+Mahluk- yaratık
+
+Mahpushane-hapishane
+
+Mahsul-ürün
+
+Mana-anlam
+
+Manzara-görünüm
+
+Matbaa-basımevi
+
+Matem-yas
+
+Mebus-milletvekili
+
+Mecbur-zorunlu
+
+Mecmua-dergi
+
+Medeni-uygar
+
+Medeniyet-uygarlık
+
+Mektep-okul
+
+Melodi-ezgi
+
+Menfaat-çıkar
+
+Menfi-olumsuz
+
+Menkul-taşınır
+
+Meridyen-boylam
+
+Mesafe-ara
+
+Mesela-örneğin
+
+Mesele-sorun
+
+Mesken-konuk
+
+Meslek-iş
+
+Mesul-sorumlu
+
+Mesut-mutlu
+
+Meşhur-ünlü
+
+Meşrubat-içecek
+
+Mevcut-var
+
+Meydan-alan
+
+Millet-ulus
+
+Milletvekili-mebus
+
+Milli-ulusal
+
+Misafir-konuk
+
+Misal-örnek
+
+Misli-katı
+
+Muavin-yardımcı
+
+Muharebe-savaş
+
+Muhtelif-çeşitli
+
+Muştu-müjde
+
+Müessese-kurum-kuruluş
+
+Mühim-önemli
+
+Mükafat-ödül
+
+Müsabaka-yarışma
+
+Müsait-uygun
+
+Müspet-olumlu
+
+Müstahsil-üretici
+
+Müstakil-bağımsız
+
+Müşteri-alıcı
+
+Merkep-eşek
+
+Mani-engel
+
+Mübarek-kutsal
+
+Muallim-öğretmen
+
+Mektup-name
+
+Merasim-tören
+
+N
+
+Nadir-ender
+
+Nakil-atama-taşıma
+
+Nasihat-öğüt
+
+Nebat-bitki
+
+Neden-sebep
+
+Nefes-soluk
+
+Nehir-ırmak
+
+Nem-rutubet
+
+Nesil-kuşak
+
+Nesir-düzyazı
+
+Neşe-sevinç
+
+Netice-sonuç
+
+Nispet-oran
+
+Nitelik-kalite
+
+Noksan-eksik
+
+Numune-örnek
+
+Nutuk-söylev
+
+Nakit-para-akça
+
+Nakliyeci-taşımacı
+
+Namzet-aday
+
+O
+
+Okul-mektep
+
+Olanak-imkan
+
+Olası-mümkün
+
+Olay-vaka
+
+Olumlu-müspet
+
+Olumsuz-menfi
+
+Onarım-tamir
+
+Onay-tasdik
+
+Onur-şeref
+
+Oran-nispet
+
+Otlak-mera
+
+Oy-rey
+
+Ozan-şair
+
+Ö
+
+Öbek-grup
+
+Öbür-diğer
+
+Ödenti-aidat
+
+Ödlek-korkak
+
+Ödül-mükafat
+
+Ödün-taviz
+
+Öfke-hiddet
+
+Öğe-unsur
+
+Öğrenci-talebe
+
+Öğrenim-tahsil
+
+Öğüt-nasihat
+
+Ömür-hayat-yaşam
+
+Önce-evvel
+
+Önder-lider
+
+Önemli-mühim
+
+Öneri-teklif
+
+Önlem-tedbir
+
+Örgüt-teşkilat
+
+Örneğin-mesele
+
+Örnek-misal
+
+Öteki-diğeri
+
+Ötürü-dolayı
+
+Öykü-hikaye
+
+Özel-hususi
+
+Özen-itina
+
+Özgün-orijinal
+
+Özgür-hür
+
+Özlem-hasret
+
+P
+
+Pabuç-ayakkabı
+
+Pasif-edilgen
+
+Pinti-cimri
+
+Pis-kirli
+
+Politika-siyaset
+
+Rağmen-karşın
+
+Rastlantı-tesadüf
+
+Rey-oy
+
+Rutubet-nem
+
+Rüya-düş
+
+Rüzgar-yel
+
+Problem-sorun
+
+Rüştiye-ortaokul
+
+S
+
+Sade-yalın
+
+Sağlık-sıhhat
+
+Saha-alan
+
+Sahil-kıyı-yalı
+
+Saldırı-hücum
+
+Samimi-içten
+
+Sanayi-endüstri
+
+Sandalye-iskemle
+
+Savaş-harp
+
+Saz-çalgı
+
+Sebep-neden
+
+Sene-yıl
+
+Sermaye-kapital
+
+Serüven-macera
+
+Sıçan-fare
+
+Sıhhat-sağlık
+
+Sır-giz
+
+Sima-yüz
+
+Siyah-kara
+
+Siyaset-politika
+
+Son-nihayet
+
+Sonuç-netice
+
+Sorun mesele
+
+Soylu-asil
+
+Sömestri-yarıyıl
+
+Söylev-nutuk
+
+Sözcük-kelime
+
+Sulh-barış
+
+Suni-yapay
+
+Surat-yüz
+
+Sürat-hız
+
+Sürekli-devamlı
+
+Sevinç-mutluluk
+
+Sınıf-derslik
+
+Sonbahar-güz
+
+Sorumluluk-mesuliyet
+
+Sözlük-lügat
+
+Sınav-imtihan
+
+Ş
+
+Şafak-tan
+
+Şahıs-kişi
+
+Şahit-tanık
+
+Şair-ozan
+
+Şans-talih
+
+Şark-doğu
+
+Şart-koşul
+
+Şayet-eğer
+
+Şef-lider-önder
+
+Şehir-kent
+
+Şekil-biçim
+
+Şen-neşeli
+
+Şeref-onur
+
+Şöhret-ün
+
+Şuur-bilinç
+
+Şüphe-kuşku
+
+Şaka-latife
+
+T
+
+Tabiat-doğa
+
+Tabii-doğal
+
+Tabip-hekim-doktor
+
+Talebe-öğrenci
+
+Talih-şans
+
+Tamir-onarım
+
+Tane-adet
+
+Tanık-şahit
+
+Tanım-tarif
+
+Tapınak-mabet
+
+Taraf-yan
+
+Tarım-ziraat
+
+Tarif-tanım
+
+Tasdik-onay
+
+Tebrik-kutlama
+
+Tecrübe-deney
+
+Tedbir-önlem
+
+Teklif-öneri
+
+Tekrar-yine
+
+Temel-esas
+
+Tercüme-çeviri
+
+Tertip-düzen
+
+Tesadüf-rastlantı
+
+Tesir-etki
+
+Toplum- cemiyet
+
+Tören –merasim
+
+Tuhaf-garip
+
+Tutsak-esir
+
+Tuvalet-hela-wc
+
+Tüm-bütün
+
+Tümör-ur
+
+Tümce-cümle
+
+Tren-şimendifer-katar
+
+Tartışma-münakaşa
+
+U
+
+Uçurum-yar
+
+Ufak-küçük
+
+Uğraş-iş
+
+Ulu-yüce
+
+Ulus-millet
+
+Umumi-genel
+
+Umut-ümit
+
+Unsur-öğe
+
+Us-akıl
+
+Uyarı-ikaz
+
+Uygar-medeni
+
+Uyum-ahenk
+
+Uzak-ırak
+
+Uzay-feza
+
+Uçak-tayyare
+
+Usta-ehil
+
+Ü
+
+Ümit-umut
+
+Ünlü-meşhur
+
+Ürün-mahsul
+
+Üye-aza
+
+Ülke-diyar-memleket
+
+Ülkü-ideal
+
+Üleş-pay
+
+Ürem-faiz
+
+V
+
+Vaka-olay
+
+Vakit-zaman
+
+Varlıklı-zengin
+
+Vasıta-araç
+
+Vatan-yurt
+
+Vazife-görev
+
+Vaziyet-durum
+
+Vesika-belge
+
+Viraj-dönemeç
+
+Vücut-gövde
+
+Vilayet-il
+
+Veteriner-baytar
+
+Y
+
+Yalın-sade
+
+Yan-taraf
+
+Yanıt-cevap
+
+Yapay-suni
+
+Yapıt-eser
+
+Yar-uçurum
+
+Yaratık-mahluk
+
+Yardımcı-muavin
+
+Yargıç-hakim
+
+Yarıyıl-sömestri
+
+Yas-matem
+
+Yasa-kanun
+
+Yaş-ıslak
+
+Yaşam-hayat-ömür
+
+Yaşlı-ihtiyar
+
+Yazı-ova
+
+Yazım-imla
+
+Yekün-toplam
+
+Yel-rüzgar
+
+Yerel-mahalli
+
+Yetenek-kabiliyet
+
+Yıl-sene
+
+Yine-tekrar
+
+Yitik-kayıp
+
+Yoksul-fakir-fukara
+
+Yöntem-metot
+
+Yurt-vatan
+
+Yüce-ulu
+
+Yürek-kalp
+
+Yüz-surat-sima-çehre
+
+Yüzyıl-asır
+
+Yemek-aş
+
+Z
+
+Zaman-vakit
+
+Zarar-ziyan
+
+Zengin-varlıklı
+
+Zeybek-efe
+
+Zıt-karşıt
+
+Ziraat-tarım
+
+Ziyan-zarar
+
+Zor-güç
+
+Zorunlu-mecburi
+
+Zırnık-metelik
+
+Zehir-agu
+
+Zabit-subay
+
+Yoksul - FAKİR 
+okul - MEKTEP 
+duyuru - İLAN 
+esir -TUTSAK
+sözcük - KELİME 
+Yıl - SENE 
+ak - BEYAZ 
+al - KIRMIZI 
+besin - GIDA 
+fayda -YARAR 
+sonbahar – GÜZ 
+konuk - MİSAFİR 
+öykü - HİKAYE 
+nehir - IRMAK 
+özlem - HASRET 
+yurt - VATAN 
+güçlü - KUVVETLİ 
+armağan - HEDİYE
+şehir - İL(KENT) 
+cümle - TÜMCE 
+İhtiyar - YAŞLI 
+korkusuz – CESUR 
+rüya - DÜŞ 
+ad - İSİM 
+kara - SİYAH 
+elbise - GİYSİ 
+zaman - VAKİT 
+doktor - HEKİM 
+öğretmen - MUALLİM 
+cansız - ÖLÜ 
+zeki - AKILLI 
+ulus - MİLLET
+hızlı - SÜRATLİ 
+anı - HATIRA
+küçük - UFAK 
+lider - ÖNDER
+
+
+ESKİ <-------> YENİ
+abide <-------> anıt
+ablem <-------> belirge
+abluka <-------> kuşatım
+acayip <-------> yabancı
+acele etmek <-------> İvmek
+aceleci <-------> ivecen
+Acz (aciz) <-------> düşkü
+adabı muaşeret <-------> görgü
+adalet <-------> tüze
+adaptasyon <-------> uyarlama
+adapte etmek <-------> uyarlamak
+adât ve ahlak <-------> töre
+adet <-------> alışkanlık, görenek
+adet <-------> sayı
+adli <-------> tüzel
+afaki <-------> şundan, bundan
+afiyet <-------> esenlik, sağlık
+afsun (efsun) <-------> büyü
+ahenk <-------> uyum
+ahenkli <-------> uyumlu
+ahenksiz <-------> uyumsuz
+ahiren <-------> son günler
+ahize <-------> alıcı, almaç
+ahlak <-------> aktöre
+ahlaki <-------> aktöresel
+aidat <-------> ödenti, kesinti
+aidiyet <-------> ilinti
+ait <-------> değin, ilişki, ilişkin
+ajan <-------> gizmen
+akis <-------> yankı
+akli <-------> ussal
+aksan <-------> dil, vurgu
+aksetmek <-------> yansımak
+aksiyon <-------> belit
+aktif <-------> etken, etki, eylemlemsel
+aktüalite <-------> Güncellik
+aktüel <-------> güncel
+alaka <-------> ilgi
+alakadar <-------> ilgili
+alarm <-------> uyandırı
+alelade <-------> olağan
+alem <-------> evren
+alemet <-------> belirti
+alev <-------> yalım
+aleyhtar <-------> karşıtçı
+amatör <-------> özengeç
+ambargo <-------> engelleyim
+amel <-------> edim
+ameli <-------> edimsel, kılgısal
+ameliye <-------> işlem
+amil <-------> etmen
+amme <-------> kamu
+amplifikatör <-------> yükselteç
+amud <-------> dikme
+amudi <-------> dikey
+anahtar <-------> açkı
+analfabet <-------> okumaz yazamaz
+analiz <-------> çözümleme
+anane <-------> gelenek
+anarşi <-------> kargaşa, düzensizlik
+ançuez <-------> hamsi ezmasi, hamsi sarması
+anlaşmazlık <-------> ihtilaf
+antet <-------> başlık
+antitez <-------> karşı sav
+antoloji <-------> seçki
+antreman <-------> alıştırım
+antrenör <-------> alıştırman
+antrepo <-------> ara koruncak
+antropoloji <-------> insanbilim
+araz <-------> belirti
+arkeolog <-------> kazıbilimci
+arzuhal <-------> dilekçe
+asa <-------> değnek
+asalet <-------> soyluluk
+asır <-------> çağ, yüzyıl
+asri <-------> çağdaş
+astronom <-------> gökbilimci
+aşk <-------> sevi
+atalet <-------> süredurum (Fizik)
+ati <-------> gelecek, ilerisi
+avans <-------> önödeme, öndelik
+ayna <-------> gözgü
+aynı <-------> özdeş
+ayniyet <-------> özdeşlik
+azap <-------> ezinç
+aza <-------> üye
+bagaj <-------> taşıncak, taşıncaklik
+bahtiyar <-------> mutlu
+baki <-------> kalımlı
+bakir <-------> erdem
+bakire <-------> erden
+banliyö <-------> yörekent
+baraz <-------> büget
+bariz <-------> belirgin
+basit <-------> yalınç
+bazı <-------> bir takım, kimi
+bedbaht <-------> mutsuz, karayazgılı
+bedbin <-------> kötümser
+beddua <-------> ilenç, ilenme
+bedel <-------> karşılık
+bedhah <-------> kötücül
+beka <-------> kalım
+bekraunt <-------> artyetişim
+bereketli <-------> artağanlık
+beyanat <-------> demeç
+beyanname <-------> bildirge, bildiri
+beynelmilel <-------> uluslararası
+bibliyofil <-------> kitap seven
+bibliyografya <-------> kaynakça
+bilhassa <-------> özellikle
+bilvasıta <-------> dolaylı
+bina <-------> yapı
+bitap <-------> argın
+bitaraf <-------> yansız
+biyografi <-------> yaşam öyküsü
+bizzat <-------> kendi, kendin, kendim
+blokaj <-------> bekletim
+blöf <-------> ürkütmece
+bono <-------> ödence
+brifing <-------> özetlem
+buhar <-------> buğu
+buhran <-------> bunalım
+buldozer <-------> yerkürer
+burjuva <-------> kentsoylu
+burs <-------> öğrenmelik
+bünye <-------> yapı
+bürokrasi <-------> yazçiz
+bürokrat <-------> yazçizci
+cahil <-------> bilisiz
+casus <-------> çaşıt
+cazibe <-------> Albeni, alım, çekicilik
+cazip <-------> alımlı, çekici
+cefa <-------> üzgü
+cehalet <-------> bilisizlik
+cehennem <-------> tamu
+celse <-------> oturum
+cemaat <-------> topluluk
+cemiyet <-------> dernek, toplum
+cephe <-------> alnaç, önyüz
+cereyan <-------> akım
+cesarettli <-------> yürekli
+cetvel <-------> çizelge, düzçizen
+cevap <-------> yanıt
+cevap vermek <-------> yanıtlamak
+cidar <-------> çeper
+cihaz <-------> aygıt
+cihet <-------> yön
+cinayet <-------> kıya, öldürü
+cins <-------> eşey
+cinsi <-------> eşeysel, cinsel
+ciro <-------> çevirim
+civar <-------> yöre
+cümle <-------> tümce
+çaresizlik <-------> umarsızlık
+çek <-------> ödene
+dair <-------> değin, üzerine
+damping <-------> düşürüm
+debdebe <-------> görkem
+defa <-------> kez
+def'aten <-------> birden
+defile <-------> giyim gösterisi
+define <-------> gömü
+deformasyon <-------> değiştirim
+dehşet <-------> yılgı
+dejenerasyon <-------> soysuzlsşma, yozlaşma
+dekor <-------> bezem
+dekorasyon <-------> bezemleme
+delil <-------> kanıt
+demogog <-------> halk avcısı
+demografi <-------> nüfus bilimi
+demokrasi <-------> elerki
+demokratik <-------> elerksel
+departman <-------> bölüm
+depo <-------> korunak
+depo etmek <-------> yığmak, biriktirmek
+depozit <-------> önödence
+dercetmek <-------> koymak, geçirmek
+derece <-------> aşama
+deşarj <-------> boşalım, boşalma
+deşifre etmek <-------> çözmek, sökmek
+devalüasyon <-------> değer düşürme
+devam <-------> sürek
+deveran <-------> dolaşım
+devet <-------> çağrı
+devir <-------> çağ, çevrim
+devre <-------> çevrim(fiz), dönem
+dilem <-------> ikilem
+direkt <-------> dolaysız
+direktif <-------> yönerge
+diyalektif <-------> eytişim
+doktrin <-------> öğreti
+doküman <-------> belge
+döviz <-------> istence(gösteride)
+dua <-------> yakarış, yakarma
+düşman <-------> yağı
+ebedi <-------> ölümsüz, sonrası, bengi
+edebi <-------> yazınsal
+edebiyat <-------> yazın
+efkarı umumiye <-------> kamuoyu, halkoyu
+egoist <-------> bencil
+ehemmiyet <-------> önem
+ehil <-------> yeterli
+ehliyet <-------> yeterlik
+ekonomi <-------> tutum
+ekonomik <-------> tutumsal
+ekseriya <-------> çoğun, çoğu kez, çoğu zaman
+ekseriyat <-------> çoğunluk, oy çokluğu
+ekskavatör <-------> yerkazar
+ekstra <-------> özüt
+el'an <-------> şimdi, bugünlü günde
+elastiki <-------> esnek
+elastikiyet <-------> esneklik
+elbise <-------> giysi
+elit <-------> seçkin
+emin <-------> güvenilir, güvenli
+emir <-------> buyruk, komut
+emniyet <-------> güvenlik, güvenirlik
+emparyalist <-------> sömürgeci
+emperyalizm <-------> elkoyuculuk, buyuruculuk
+empresyonist <-------> izlenimci
+emretme <-------> buyurma
+endikatör <-------> gösterge
+endirekt <-------> dolaylı
+endişe <-------> kaygı
+endüstri <-------> işleyim
+enerji <-------> erk, güç, güre
+enerjik <-------> gürel, güreli
+enfreruj <-------> kızılötesi
+enkaz <-------> yıkıntı
+enstruman <-------> araç, çalgı
+entern <-------> yetişici (hekimlik)
+entresan <-------> ilginç, ilgi çekici
+erozyon <-------> aşınma
+esaret <-------> tutsaklık
+esas <-------> asal
+esef etmek <-------> acınmak
+eser <-------> yapıt, yaratı
+esir <-------> tutsak
+eskiz <-------> taslak
+esrarlı <-------> gizemli
+estetik <-------> güzel duyu
+eşantiyon <-------> örneklik
+eşel mobil <-------> oynak ölçü
+etraf <-------> çevre, dolay
+evham <-------> kuruntu
+ezeli <-------> öncesiz
+ezilet <-------> özgü
+faal <-------> etkin
+faaliyet <-------> etkenlik
+fabrika <-------> yapınak
+fabrikasyon <-------> yapınış
+fabrikatör <-------> yapınman
+facia <-------> ağlatı
+fakir <-------> yoksul
+fakirlik <-------> yoksulluk
+faktör <-------> etman
+fal <-------> bakı
+fani <-------> kalımsız
+fantezi <-------> düşlem
+faraziye <-------> varsayım
+fark <-------> ayrım
+farklı <-------> ayrımlı
+farksız <-------> ayrımsız
+farz etmek <-------> varsaymak
+fatura <-------> satmaca
+fayda <-------> yarar
+faydalanma <-------> yaralanma
+faydalı <-------> yaralı
+fazilet <-------> erdem
+fedakar <-------> esirgemez, özverili, özgeçili
+felaket <-------> yıkım
+ferman <-------> buyruk, buyrultu
+fert <-------> birey
+fetiş <-------> tapıncak
+fevkalade <-------> olağandışı, olağanüstü
+feza <-------> uzay
+fikir <-------> düşünü, düşüncel
+filhakika <-------> gerçekten
+finanse etmek <-------> akçalamak
+form <-------> biçim
+fren <-------> durduraç
+frigotik <-------> soğutmalı
+fuel oil <-------> yağyakıt, sıvıyakıt
+fultaym <-------> tamgün
+füsun <-------> büyü
+gafil <-------> aymaz
+gaflet <-------> aymazlık
+galibiyet <-------> yengi
+garanti <-------> güvence
+garip <-------> yabansı
+gaye <-------> amaç, erek
+gayret <-------> çaba
+gayri ihtiyari <-------> istemsiz
+gayri muayyen <-------> belgisiz, belirsiz
+gayri muntazam <-------> düzensiz
+gayri mümkün <-------> olanaksız
+gayri müsavi <-------> eşitsiz
+gayri samimi <-------> içtensizlik
+gayri tabii <-------> olağandışı, olağanüstü
+gazete <-------> günce
+gıda <-------> besin
+grafik <-------> çizge
+grev <-------> işbırakımı, bırakım
+greyder <-------> yerdüzler
+güruh <-------> tayfa, takım, bölük
+haberleşme <-------> bildirişim, yazışma
+hacim <-------> oylum
+hadise <-------> olay
+hafif <-------> yeğni
+hafıza <-------> bellek
+hakem <-------> yargıcı
+hakikat <-------> gerçek
+hakim <-------> bilge
+hâkim <-------> başat, egemen, yargıç
+hakimiyet <-------> başatlık, egemenlik
+hal <-------> çözüm, durum
+hal çaresi <-------> çözüm yolu
+hal şekli <-------> çözüm yolu
+halletmek <-------> çözmek
+hamle <-------> atılım
+hararet <-------> ısı
+hareket etmek <-------> devinmek
+hars <-------> ekin
+has <-------> özgü
+hasıl olmak <-------> üremek
+hasım <-------> yağı
+hasret <-------> özlem
+hassas <-------> duyar, duyarlı
+hassasiyet <-------> duygan, duygulu, duyarlık
+hasta <-------> sayrı
+hastalık <-------> sayrılık
+hat <-------> çizgi
+hata <-------> yanılgı
+hatip <-------> konuşmacı
+hatıra <-------> andaç, anı
+hatırlama <-------> ansıma
+hatırlamak <-------> ansımak
+hayal <-------> düş, görüntü
+hayal etmek <-------> düşlemek
+hayali <-------> düşsel, imgesel
+hayat <-------> dirim, yaşam
+hayati <-------> dirimsel, yaşamsal
+hayret <-------> şaşkı
+haysiyet <-------> onur, özsevi
+haysiyetli <-------> onurlu
+haysiyetsiz <-------> onursuz
+hazım <-------> sindirim
+hazine <-------> gömü
+hedef <-------> erek
+hediye <-------> armağan
+helelozni <-------> sarmalı (fizik)
+hemcins <-------> türdeş
+hemfikir <-------> düşündeş, oydaş
+hercümerç <-------> karışıklık, kargaşalık
+heterojen <-------> ayrışık
+hevesli <-------> özenci
+heyecan <-------> coşku
+heyet <-------> kurul
+heykel <-------> yontu
+heykeltraş <-------> yontucu
+hibe <-------> bağışlama
+hicret <-------> göç, göçme
+hikaye <-------> anlatı, öykü
+hikaye etmek <-------> öykülemek
+hile <-------> aldatıcı
+his <-------> duygu
+hisse <-------> pay
+hissedar <-------> paydaş
+hissetmek <-------> duymak, sezmek
+hissikablevuku <-------> önsezi
+hitabe <-------> söylev
+hiyerarşi <-------> aşama, sıradüzen
+hobi <-------> düşkü
+hodbin <-------> bencil
+holding <-------> tüm ortaklık
+homojen <-------> benzeşik
+homoseksüel <-------> eşcinsel
+hukuk <-------> tüze
+hukuki <-------> tüzel
+hulasa etmek <-------> özetlemek
+hurafe <-------> boşinan
+husumet <-------> yağılık
+hususi <-------> özel
+hususi teşebbüs <-------> özel girişim
+hususiyet <-------> özellik
+huzme <-------> demet
+hücre <-------> göze (biyoloji)
+hücum <-------> saldırı, atak
+hücum etmek <-------> saldırmak
+hükmi şahıs <-------> tüzel kişi
+hüküm <-------> yargı
+hümanist <-------> insancı, insancıl
+hür <-------> erkin
+hürmet <-------> saygı
+hürriyet <-------> özgürlük
+hüviyet <-------> kimlik
+ibadet <-------> tapınç
+ibadet etmek <-------> tapınmak
+ibret <-------> öğrenek
+icap (ettirmek) <-------> gerektirme
+icap etmek <-------> gerekmek
+icat <-------> buluş
+icra etmek <-------> uygulamak, yürütmek
+içtimai <-------> toplumsal
+idare <-------> yönetim
+idare heyeti <-------> yönetim kurulu
+idareci <-------> yönetici
+idari <-------> yönetimsel
+iddia <-------> sav
+iddia etmek <-------> savlamak
+ideal <-------> ülkü, ülküsel
+idealist <-------> ülkücü
+ididal <-------> ılımlılık, ölçülülük
+idrak <-------> algı
+idrak etmek <-------> algılama, anlamak
+ifade <-------> anlatım, deyiş
+iflas <-------> batkı
+ifraz <-------> salgı
+iftira <-------> kara çalma, karacılık
+ihmal etme <-------> savsaklamak
+ihmalkar <-------> savsak
+ihracaat <-------> dışsatım
+ihsan <-------> kayra
+ihtar <-------> uyarı, uyarma
+ihtimal <-------> olasılık
+ihtimam <-------> özen
+ihtiras <-------> tutku
+ihtisas <-------> uzmanlık
+ihtişam <-------> görkem
+ihtiyaç <-------> gerekseme
+ihtiyari <-------> istemli
+ihtiyat <-------> sakıntı
+ihtiyatkar <-------> sakıngan
+ihtizaz <-------> titreşim
+ikametgah <-------> konut
+ikaz <-------> uyarı, uyarma
+ikmal <-------> bütünleme
+iktibas <-------> aktarma, alıntılama
+iktidar <-------> erk
+iktifa etmek <-------> yetinmek
+iktisadi <-------> tutumsal
+iktisat <-------> tutum
+ilahi <-------> tanrısal
+ilahiyat <-------> tanrı bilim
+ilan <-------> duyuru
+ilga etmek <-------> varlığını kaldırmak
+ilham <-------> esin
+ilham almak <-------> esinlenmek
+illegal <-------> yasadışı
+illüzyonist <-------> gözbağcı
+ilmi <-------> bilimsel
+iltica <-------> sığınma
+iltica etmek <-------> sığınmak
+iltihap <-------> yangı, irin
+ima <-------> anıştırma
+ima etmek <-------> anıştırmak
+imaj <-------> görüntü, imgel
+imal <-------> yapım
+imalatçı <-------> yapımcı
+imalathane <-------> yapımevi
+iman <-------> inan, inanç
+imkan <-------> olabilirlik, olanak
+imkansız <-------> olanaksız
+imla <-------> yazım
+imtihan <-------> sınav
+imtiyaz <-------> ayrıcalık
+inat <-------> direnim
+indeks <-------> dizin
+infaz <-------> yürütüm
+inhiraf <-------> açılım
+inhisar <-------> tekel
+inkar <-------> yadsıma
+inkar etmek <-------> yadsımak
+inkilap <-------> devrim
+inkişaf <-------> açınma, gelişim, gelişme
+insiyak <-------> içgüdü
+insiyaki <-------> içgüdüsel
+inşaat <-------> yapı
+intiba <-------> duyuş, izlenim
+intihap <-------> seçim
+intizam <-------> düzen, düzenlilik
+iptidai <-------> ilkel
+irade <-------> istem, istenç
+irsi <-------> kalıtsal
+irtibat <-------> bağlantı
+irtica <-------> gericilik
+irticalen <-------> doğaçtan, doğaçlama
+isim <-------> ad
+ispat <-------> kanıtlama
+ispat etmek <-------> kanıtlamak
+istatistik <-------> sayılama
+istibdat <-------> baskı, zorbalık
+istida <-------> dilekçe
+istidat <-------> anıklık
+istifa <-------> çekilme
+istifade <-------> ası, yarar
+istifade etmek <-------> yararlanmak
+istihbarat <-------> danışma, haber alma
+istihlak <-------> tüketim, yoğaltım
+istihsal <-------> üretim
+istikamet <-------> doğrultu, yön, yönelti
+istiklal <-------> bağımsızlık
+istila <-------> salgın
+istimlak <-------> kamulaştırma
+istisna <-------> ayrallık, kural dışı
+istişare <-------> danışma
+isyan <-------> başkaldırı
+işaret <-------> im, belgi, belirti
+işaret etmek <-------> imlemek, göstermek
+ithalat <-------> dışalım
+itibar <-------> saygınlık
+itikat <-------> inanç
+itilaf <-------> anlaşma
+itimat <-------> güven, güvenirlik
+itina <-------> özen
+itinalı <-------> özenli
+itiyat <-------> alışkı, alışkanlık
+itiyat <-------> alışkanlık
+izah <-------> açıklama, anlayış
+izale (etme) <-------> giderme, yoketme
+izdiham <-------> yığılaşma
+izolasyon <-------> yalıtım
+izole etmek <-------> yalıtmak
+izzeti nefis <-------> onur, özsevi
+jeneratör <-------> üreteç (Fiz)
+jeolog <-------> yerbilimci
+jeoloji <-------> yerbilim
+jurnal <-------> giz iletim
+jüri <-------> seçici
+kabiliyet <-------> yetenek
+kabir <-------> gömüt
+kabus <-------> karabasan, ağırlık basma
+kadar <-------> değin, dek, denli
+kademe <-------> aşama
+kader <-------> alınyazısı, yazgı
+kaderci <-------> yazgıcı
+kafi <-------> yeter, yeterli
+kafiye <-------> uyak
+kaide <-------> kural
+kainat <-------> evren
+kalifiye <-------> nitelikli
+kalite <-------> nitelik
+kaliteli <-------> nitelikli
+kamera <-------> sinealıcı
+kamp <-------> dinlenek, toplanak
+kampanya <-------> savaşım, alım-satım dönemi
+kamyon <-------> yüklet
+kanaatkar <-------> yetkin
+kanande <-------> akıncı
+kanun <-------> yasa
+kanuni <-------> yasal
+kaparo <-------> güvenmelik
+kapital <-------> anamal
+kapitalist <-------> anamalcı
+kapris <-------> özenç
+karakter <-------> ıra
+kare <-------> dördül
+kati <-------> kesin
+katip <-------> yazman
+katiyen <-------> kesinlik
+katliam <-------> kırım
+kaybetme <-------> yitirme
+kaybolmak <-------> yitmek
+kayıp <-------> yitik
+keder <-------> üzünç
+kelime <-------> sözcük
+kemiyet <-------> nicelik
+kere <-------> kez
+kesafet <-------> yoğunluk
+kesif <-------> yoğun
+keşif <-------> bulgu
+keyfiyet <-------> nitelik
+kifayet <-------> yeterli
+kifayetli <-------> yeterli
+kifayetsiz <-------> yetersiz
+kısım <-------> bölüm
+kıstas <-------> ölçek, ölçüt
+kitabe <-------> yazıt
+kıyafet <-------> giyim
+kıyas <-------> örneksel
+kıyas <-------> ölçme, benzetme
+kıyaslama <-------> karşılaştırma
+kollokyum <-------> konuşu
+komedi <-------> güldürü
+komedyen <-------> güldürmen
+komisyon <-------> yarkurul
+kompleks <-------> karmaşık, karmaşa
+komplike <-------> karışık
+komplo <-------> gizdüzen
+komposizyon <-------> düzen
+konferans <-------> konuşma
+konfeti <-------> saçı
+kongre <-------> kurultay
+konserve <-------> saklanca
+konsorsiyum <-------> genortaklık
+konsültasyon <-------> danışım
+kontekst <-------> bağlam
+kontenjan <-------> saptanca
+kontrat <-------> sözleşme
+kontrol <-------> denetim
+kontrol etmek <-------> denetlemek
+konvoy <-------> katar
+kooperatif <-------> birleşke
+koordinasyon <-------> eşgüdüm, ortakgüdüm
+koordine etmek <-------> eşgüdümlemek, ortakgüdümlemek
+kortej <-------> alay
+kostümlü parti <-------> giyimli eğlenti
+kramp <-------> kıraç
+kreasyon <-------> yaratı
+kredi <-------> yerenek, saygı
+kritik <-------> eleştiri, tehlikeli sonuç
+kriz <-------> bunalım
+kudret <-------> erk (Fiz) erke, güç
+kumanya <-------> azık
+kupür <-------> kesik
+kur'a çekmek <-------> ad çekmek
+kuvöz <-------> yaşanak
+kuvvet <-------> güç
+küfür <-------> sövgü
+kültür <-------> ekin
+laboratuvar <-------> deneylik
+lahiya <-------> tasarı
+lakaydi <-------> ilgisizlik
+lanet <-------> kargış
+lanet etmek <-------> kargışlamak
+lazım <-------> gerekli, gerek
+liberal <-------> erkin, erkinikçi
+liberalizm <-------> özel girişimcilik
+lider <-------> önder
+likid <-------> sıvı
+lisan <-------> dil
+lokavt <-------> işkapatım
+lügat <-------> sözlük
+lütuf <-------> kayra
+lüzum <-------> gerekli, gereklik
+lüzum hasıl olmak <-------> gerekmek
+lüzumsuz <-------> gereksiz
+mabet <-------> tapınak
+macera <-------> serüven
+madde <-------> nesne, özdek
+maddi <-------> özdeksel, tensel
+mafsal <-------> eklem
+mağlubiyet <-------> yenilgi
+mahalli <-------> yerel, yöresel
+mahdut <-------> sınırlı, sayılı
+mahiyet <-------> nitelik
+mahrek <-------> yörünge
+mahrum <-------> yoksun
+mahsul <-------> ürün
+mahzur <-------> sakınca
+makam <-------> orun
+makbuz <-------> alıntı
+malum <-------> bilinen
+malumat <-------> bilgi
+malzeme <-------> gereç
+mana <-------> anlam
+manasız <-------> anlamsız
+manevi <-------> içsel, tinsel
+mani <-------> engel
+manzara <-------> görünüm, bakacak
+marifet <-------> bilgi
+masraf <-------> gider
+matbu <-------> basılı
+matbuat <-------> basın
+materyalist <-------> özdekçi
+materyalizm <-------> özdekçilik
+mazbata <-------> tutanak
+mecbur <-------> yükümlü
+mecburi <-------> zorunlu
+mecburiyet <-------> yükümlülük, zorunluluk
+meçhul <-------> bilinmeyen
+medeni <-------> uygar
+medeniyet <-------> uygarlık
+mekan <-------> yer
+meleke <-------> yeti, yordam
+melodi <-------> ezgi
+memnun olmak <-------> gönenmek, kıvanmak
+memnuniyet <-------> kıvanç, sevinç
+memur <-------> işyar, işgören, görevli
+menfii <-------> eksi (tıp), olumsuz
+merasim <-------> tören
+merhamet <-------> acıma
+mesaj <-------> ileti, bildiri
+mesela <-------> sözgelişi, örneğin, sözgelimi
+mesele <-------> sorun
+mesken <-------> konut
+meslek <-------> öğreti (Felsefe), uğraş
+mesul <-------> sorumlu
+mesuliyet <-------> sorumluluk
+mesut <-------> mutlu
+metafizik <-------> doğa ötesi
+methiye <-------> övgü
+metot <-------> yöntem
+metro <-------> altulaşım
+metropol <-------> anakent, başyurt
+mevcudiyet <-------> varlık
+mevcut <-------> var
+mevzu <-------> konu
+mevzubahis <-------> söz konusu
+meydan <-------> alan
+meyil <-------> eğilim, eğim, özlem
+mezar <-------> gömüt
+meziyet <-------> artam
+mikyas <-------> ölçek
+militan <-------> vurucu
+milli <-------> ulusal
+minimum <-------> azın
+miras <-------> kalıt
+misafir <-------> konuk
+misal <-------> örnek
+mısra <-------> dize
+mistisizm <-------> gizemcilik
+mizansen <-------> oyun düzeni, sahneye koyma
+modern <-------> çağıl, çağdaş
+monoton <-------> tek düze
+montaj <-------> kurgu
+monte etmek <-------> kurmak, kurup takmak
+moral <-------> içgücü
+muadil <-------> denk, denktaş
+muafiyet <-------> bağışıklık
+muamele <-------> işlem
+muasır <-------> çağdaş
+muayene etmek <-------> sınamak, yoklamak
+muayyen <-------> belirli
+mucit <-------> bulucu, türetmen
+mucize <-------> tansık
+muhabere <-------> iletişim, yazışma
+muhacir <-------> göçmen
+muhafazakar <-------> tutucu
+muhalefet <-------> karşıcılık
+muhit <-------> çevre
+muhit <-------> ortam
+muhtaç olmak <-------> gereksemek
+muhtar <-------> özerk
+muhtelif <-------> ayrışık
+muhtemel <-------> olası
+muhteşem <-------> görkemli
+muhteva <-------> içerik
+mukabil <-------> karşılık
+mukadderat <-------> yazgı, alın yazısı
+mukamele <-------> karşılık
+mukavemet <-------> direnç, direnme
+mukayese <-------> karşılaştırma
+muntazam <-------> düzgün
+mutaasıp <-------> bağnaz
+muteber <-------> saygın
+mutemet <-------> güvenilir kişi
+mutlak <-------> salt
+muvazene <-------> denge
+mübadele <-------> değişim
+mübarek <-------> kutlu
+mücadele <-------> savaşım
+müdafaa <-------> savunma
+müddet <-------> süre
+müessese <-------> kurum
+müessir <-------> etken, etkili
+mühim <-------> önemli
+müjde <-------> muştu
+mükafaat <-------> armağan, ödül
+mükellef <-------> yükünmlü
+mükellef <-------> yükümlü
+mükemmel <-------> yetkin
+mülkiyet <-------> iyelik
+mülteci <-------> sığınmacı
+mümbit <-------> bitek, verimli
+mümkün <-------> olabilir
+münasebet <-------> bağıntı
+münderecat <-------> içindekiler
+münekkit <-------> eleştirmen
+münhani <-------> eğri
+müphem <-------> belirsiz
+müsabaka <-------> yarışma
+müsamaha <-------> hoşgörme
+müsamere <-------> gösteri, sazlı sözlü eğlenti
+müspet <-------> olumlu
+müstenkif <-------> çekimser
+müstesna <-------> ayrıksı, ayral, ayrı
+müşahit <-------> gözlemci
+müşerref olmak <-------> 
+müşfik <-------> sevecen
+müşterek <-------> ortaklaşa
+mütareke <-------> bırakışma
+müteharrik <-------> devingen
+mütenazır <-------> bakışan, birbirinr bakan
+mütercim <-------> çevirmen
+mütevellit <-------> doğmuş, doğan, ileri gelen
+müttefik <-------> bağlaşık
+müzakere <-------> görüşme
+naçar <-------> umarsız
+nadir <-------> azrak
+nakil <-------> iletme
+nakliyat <-------> taşıma
+namzet <-------> aday
+nasihat <-------> öğüt
+natamam <-------> bitmemiş, eksikli
+natüralizm <-------> doğacılık
+natürmort <-------> ölüdoğa
+nazari <-------> kuramsal
+nazariye <-------> kuram
+nazım <-------> koşuk
+nebat <-------> bitki
+neolozizm <-------> yeni tüketim
+nesil <-------> kuşak
+nesir <-------> düzyazı
+neşriyat <-------> yayın
+netice <-------> sonuç
+nevale <-------> azık
+nizam <-------> düzen
+nomanklatör <-------> adlar dizisi
+norm <-------> ölçü
+normal <-------> düzgüsel (Fels)
+nöbet <-------> keşik
+nötr <-------> yansız, etkisiz
+nutuk <-------> söylev
+nüfuslu <-------> sözü geçen
+objektif <-------> nesnel
+obstrüksiyon <-------> engel
+odyo vizer <-------> gör-işit
+oportinist <-------> günoğlu
+optimist <-------> iyimser
+organizasyon <-------> örgütlenme
+orijin <-------> köken
+oryantalist <-------> doğu bilimci
+otobüs <-------> genbinit
+otokton <-------> yerli
+otomat <-------> özdevimsel
+otonom <-------> özerk
+otonomi <-------> özerklik
+otopsi <-------> gözlegörü
+otorite <-------> yetke
+otostop <-------> durbinit
+ömür <-------> yaşam
+panel <-------> açık oturum
+panik <-------> ürkü
+pansiyon <-------> barıncak
+parantez <-------> ayraç
+pasaport <-------> geçişlik
+pasif <-------> eylemsiz
+psikanaliz <-------> ruh çözümü
+rabıta <-------> bağlantı
+radikal <-------> köktencilik
+radyasyon <-------> ışınım
+rağmak <-------> karşın
+rakım <-------> yükselti
+randevu <-------> buluşma
+rapor <-------> yazanak
+rasat <-------> gözlem
+rasyonalizm <-------> usculuk
+rasyonel <-------> ussal
+reaksiyon <-------> tepki
+reaktör <-------> yazımcı
+realite <-------> gerçek, gerçekçilik
+reanimasyon <-------> canlandırma
+redaksiyon <-------> yazımlama
+reel <-------> gerçek
+refah <-------> gönenç
+reform <-------> düzeltim
+regülatör <-------> düzelteç
+regüle etmek <-------> düzenlemek
+reha <-------> kurtuluş, kurtulma
+rekolte <-------> toplam ürün
+rekor <-------> erişim
+rekortmen <-------> erişmen
+repertuvar <-------> sorumluluk
+restorasyon <-------> onarım
+revalüasyon <-------> değer yükseltimi
+revizyon <-------> gözden geçirme
+reyon <-------> sergen
+rezerv <-------> biriki
+rotatif <-------> döner-basar
+rüşt <-------> ergenlik
+rütbe <-------> aşama
+rüya <-------> düş
+sabit <-------> durağan
+sade <-------> arı, yalın
+safha <-------> evre, aşama, kesim
+sahip <-------> iye
+sahiplik <-------> iyelik
+sahte <-------> düzmece
+sakin <-------> dingin, dural
+salim <-------> esen
+samimi <-------> içten
+samimiyet <-------> içtenlik
+sansür <-------> sıkıdüzen
+sarahat <-------> açıklık, belginlik
+sarih <-------> açık, bergin
+sathi <-------> yüzeysel
+sebat <-------> direşim
+sebep <-------> neden
+sefer <-------> kez
+seka <-------> anlak, anlayış
+sekreter <-------> yazman
+sekte <-------> durgu
+sektör <-------> kesim
+selahiyet <-------> yetkin
+self-servis <-------> buyur-al
+sema <-------> gök, gökyüzü
+sembol <-------> im, simge
+sembolik <-------> simgesel
+semere <-------> verim
+sempozyum <-------> bilimsel toplantı
+sentetik <-------> bileşik
+sentez <-------> bireşim
+serbest <-------> özgür
+serdetmek <-------> ileri sürmek
+serlevha <-------> başlık
+sermaye <-------> anapara
+serzeniş <-------> çıkışma, başa kakma
+seviye <-------> düzey
+seyahat <-------> gezi
+seyyah <-------> gezgin
+seyyar <-------> gezici
+sezon <-------> sürem
+sıhatli <-------> sağlıklı, esen
+sıhhat <-------> esenlik
+sihir <-------> büyü
+sihirli <-------> büyülü
+silüet <-------> karaltı
+simetri <-------> bakışım
+simetrik <-------> bakışımlı
+sır <-------> giz
+sırf <-------> salt
+sistem <-------> dizge
+sistematik <-------> dizgesel
+sistemli <-------> dizgisel
+siyasi <-------> siyasal
+slogan <-------> savsöz, çarpıcısöz
+sohbet <-------> söyleşi
+sosyal <-------> toplumsal
+sosyalist <-------> toplumcu
+spekülasyon <-------> vurgunculuk
+spitualist <-------> tinseler
+staj <-------> yetişim
+stajyer <-------> yetişmen
+standardize <-------> ölçüm
+statik <-------> durağan
+statüko <-------> sürerdurum
+stil <-------> yoldam
+stok <-------> yığın
+sual <-------> soru
+subjektif <-------> öznel
+suistimal <-------> kötüye kullanma, yolsuzluk
+sulh <-------> barış
+suni <-------> yapay
+sükut <-------> susku
+sükünet <-------> dinginlik, durallık
+sürealizm <-------> gerçeküstücülük
+şaheser <-------> başyapıt
+şahsi <-------> kişisel
+şaibe <-------> leke, kir
+şair <-------> ozan
+şart <-------> koşul
+şartlanmak <-------> koşollanmak
+şeffaf <-------> saydam
+şehir <-------> kent
+şehvet <-------> kösnü
+şekil <-------> biçim, örnek
+şekilcilik <-------> biçimcilik
+şey <-------> nesne
+şiddet <-------> azış, yeğinlik
+şifre <-------> gizyazı
+şifrelemek <-------> giz yazıya çevirmek
+şikayet <-------> yakınma
+şoför <-------> sürücü
+şuur <-------> bilinç
+şüphe <-------> kuşku
+taarruz <-------> saldırı
+taassup <-------> bağnazlık
+tabaka <-------> katman
+tabii <-------> doğal
+tafsilat <-------> ayrıntı
+tahakkuk <-------> gerçekleşme
+tahayyül etmek <-------> imgelemek
+tahkikat <-------> soruşturma
+tahmin <-------> kestirme, önkestirme
+tahsil <-------> öğrenim
+tahsisat <-------> ödenek, karşılık
+takaddüm <-------> öncellik
+takat <-------> güç
+takibat <-------> kovuşturma
+takip etmek <-------> izlemek, kovuşturmak
+taklit <-------> yansılamak, öykünmek
+takribi <-------> yaklaşık
+taksim <-------> bölme
+taktim etmek <-------> sunmak
+talep <-------> istek
+tali <-------> ikincil
+talimat <-------> yönerge
+tamim <-------> genelge
+tamir <-------> onaraım
+tansiyon <-------> gerilim, kan basıncı
+tanzim etmek <-------> düzenlemek
+tarafsız <-------> yansız
+taraftar <-------> yandaş
+tarif <-------> tanım
+tarif etmek <-------> tanımlamak
+tarz <-------> biçim
+tasarruf <-------> artırma, tutum, kullanım
+tasavvur <-------> tasarım
+tasdik <-------> onay, onaylama
+tasvip etmek <-------> onamak, uygun bulmak
+tatbik <-------> uygulama
+tatbiki <-------> uygulamalı
+tatil <-------> dinlence
+tatil etmek <-------> boşlamak, işletmemek, durdurmak
+tatmin <-------> doyum, doygunluk
+tatmin <-------> doyurmak
+tatminkar <-------> doyurucu
+tatminkar <-------> doyurucu
+taviz <-------> ödün
+tavsiye <-------> öğüt, öğütleme
+tayin <-------> atama, belirleme
+tebliğ <-------> bildiri
+tecavüz <-------> saldırı
+techizat <-------> donatım
+tecil <-------> erteleme
+tecrit <-------> soyutlama
+tecrübe <-------> deneyim, sınama, deney
+tedbir <-------> önlem
+tedbirli <-------> önlemli
+tedricen <-------> azar azar, yavaş yavaş
+tedris <-------> öğretim
+tedvir etmek <-------> yönetmek
+teferruat <-------> ayrıntı (lar)
+teferruat <-------> ayrıntılar
+tefrik <-------> ayrım
+tehlike <-------> çekince
+tekabül <-------> 
+tekamül <-------> evrim
+teklif <-------> öneri
+tekniker <-------> uygulaman
+teknisyen <-------> uygulaman
+teknoloji <-------> uygulayımbilim
+teknotrat <-------> uyguyımcı
+tekrar <-------> yineleme
+teksif etmek <-------> yoğunlaştırmak, koyulaştırmak
+tekzip etmek <-------> yalanlamak
+telaffuz <-------> söyleyiş, söyleniş
+teledinamik <-------> uzdevimsel
+teleferik <-------> uzaşar
+telefon <-------> seslek
+telegraf <-------> uzyazar, uzyazım
+telekomand <-------> uzgüdüm
+teleks <-------> uzyazım
+telemekanik <-------> uzaktarım
+telemetri <-------> uzölçer
+teleobjektif <-------> uzmercek
+telepati <-------> uzsezim, uzsezinim
+teleskop <-------> uzgözlük
+teletayp <-------> uzayazım
+televizyon <-------> uzgöreç, uzgörüm
+temas <-------> değinme, değinim
+teminat <-------> güvence
+teneffüs <-------> solunum
+tenkit <-------> eleştiri
+tenvir <-------> aydınlatma
+tenzilat <-------> indirim
+teori <-------> kuram
+teorik <-------> kuramsal
+tereddüt etmek <-------> duraksamak
+terkip <-------> bileşim
+terminoloji <-------> terimler dizgesi
+terör <-------> yılgı, yıldırı
+terörist <-------> yıldırgan
+tertip <-------> düzen, düzenleme
+tesadüf <-------> rastlantı
+tesisat <-------> döşem
+tespit etmek <-------> saptamak
+teşebbüs <-------> girişim
+tetkik <-------> incelem
+tevhit <-------> birleştirme
+tez <-------> sav
+tezahürat <-------> gösteri
+tezat <-------> karşıtlık
+ticaret <-------> tecim
+tolerans <-------> hoşgörü
+trajik <-------> ağlatısal
+tranformatör <-------> değiştirgen
+transfer <-------> aktarma, geçirme
+transplantasyon <-------> örgen aktarımı
+travers <-------> tabanlık
+turist <-------> gezgin
+turistik <-------> gezinsel
+turizm <-------> gezim
+turne <-------> gezme, gezim
+ufuk <-------> çevren
+umumi <-------> genel
+unsur <-------> öğe
+ümmi <-------> okumamış
+ünite <-------> birim
+ünsiyet <-------> alışıklık, tanışıklık
+vantilatör <-------> yelleç
+vasıf <-------> ayırt, nitelik
+vasıta <-------> araç
+vazgeçmek <-------> caymak
+vazife <-------> görev
+vaziyet <-------> durum, konum
+vazo <-------> çiçeklik
+vecibe <-------> ödev
+vehamet <-------> korku, tehlike
+veraset <-------> kalıtım, soyaçekim
+veya <-------> yada
+vicdan <-------> duyunç
+viratör <-------> sarsaç
+viyadük <-------> aşıt
+vize <-------> görüldü
+vizite <-------> görüm, görüm parası
+yahut <-------> yada
+zabit <-------> subay
+zabitan <-------> subaylar
+zafer <-------> utku
+zan <-------> sanı
+zarar <-------> dokunca
+zaruret <-------> yoksulluk, zorunluk, zorunluluk
+zaruri <-------> zorunlu
+zaviye <-------> açı
+zayi <-------> yitik
+zevk <-------> beğeni
+zihin <-------> an
+zihniyet <-------> düşünce
+abide :anıt
+acele :çabuk
+acemi :toy
+aciz :güçsüz
+adalet :hak
+adet :sayı
+aka :büyük
+akıl :us
+al :kırmızı
+alelade :sıradan
+aleni :açık
+ara :fasıla
+araba : otomobil
+armağan :hediye
+aşk :sevi
+atik :seri
+ayakkabı :pabuç
+bağışlama :affetme
+bacı :kız kardeş
+baş :kafa
+bayağı :adi
+beyaz :ak
+bonkör :cömert
+cennet :aden
+cevap :yanıt
+cılız :zayıf
+cimri :pinti
+cümle :tümce
+çabuk :acele
+çağrı :davet
+çamur :balçık
+çare :umar
+denk :müsavi
+deprem :zelzele
+dilek :istek :arzu
+dizi :sıra
+doktor :hekim
+dost :arkadaş
+edebiyat :yazın
+edep :adap
+ehemniyet :önem
+elbise :esbap
+emniyet :güven
+eser :yapıt
+eş anlamlı sözcükler :anlamdaş sözcükler
+ev :konut
+fakir :yoksul
+fayda :yarar
+fena :kötü
+fikir :düşünce ya da ide
+gemi :vapur
+gezmek :dolaşmak
+gökyüzü :sema
+gözlem :rasat
+güç :kuvvet
+hadise : olay
+hareket :kinetik
+hasım :düşman
+hasret :özlem
+hatıra :anı
+hediye :armağan
+hekim :doktor
+hısım :dost
+ırak :uzak
+ırmak :nehir
+idadi :lise
+idare :yönetim
+ihtiyar :yaşlı
+ihtiyaç :gereksinim
+ilan :duyuru
+ilişki :münasebet
+imtihan :sınav
+isim :ad
+istasyon :gar veya Terminal
+istikbal :gelecek
+işçi :amele
+ivedi :çabuk
+izahat :açıklama
+kabiliyet :yetenek
+kafa :baş
+kahin : medyum veya öz Türkçesi bilici
+kalp :yürek
+kanıt :delil
+kelime :sözcük
+kılavuz :rehber
+kırmızı :al
+kıyı :kenar veya sahil
+kirli :pis
+kolay :basit
+konuk :misafir
+kural :kaide
+kuvvetli :güçlü
+küçük :ufak veya minik
+lider :önder
+mal :meta
+mani :engel
+matem :yas
+mektep : okul
+mektup :name
+merkep :eşek
+misafir :konuk
+misal :örnek
+muharebe :savaş
+mübarek :kutsal
+namzet :aday
+nehir :ırmak
+nesil :kuşak
+nezir :adak
+okul :mektep
+ortalama :vasat
+oy :rey
+öğrenci :talebe
+öğretmen :muallim
+önder :lider
+örnek :misal
+öykü :hikaye
+problem :sorun
+rey : oy
+rüştiye : ortaokul
+rüzgar :yel
+saadet :mutluluk
+sabit :durağan (durgun)
+sağlık : sıhhat
+savaş :cenk veya muharebe
+sebep :neden
+sene :yüzyıl ya da asır
+serüven :macera
+sevinç :mutluluk
+sınav :imtahan
+sınıf :derslik
+sitane :yıldız
+siyah :kara
+son :nihayet
+sonbahar :güz
+soru :sual
+sorumluluk :mesuliyet
+sözcük :kelime
+sözlük :lügat
+şaka :latife
+şakacı :nüktedan
+tabiat :doğa
+tartışma :münakaşa
+temel :esas
+tören :merasim
+tren :şimendifer
+tutsak :esir
+tümce :cümle
+uçak :tayyare
+ulu :yüce
+ulus :millet
+usta :ehil
+uyarı :ikaz
+uygarlık :medeniyet
+üzüntü :tasa
+vakit :zaman
+vatan :yurt
+vazife :görev
+veteriner :baytar
+vilayet :il
+Yaşlı :ihtiyar
+yel :rüzgar
+yemek :aş
+yetenek :beceri ye da kabiliyet
+yıl :sene
+yılmak :bıkmak
+yoksul :fakir
+yurt :vatan
+yürek :kalp
+yüz :sima :çehre :surat
+zehir :agu
+zengin :varlıklı
+zırnık :metelik
